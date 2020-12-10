@@ -1,6 +1,7 @@
 /**
+*@Document Description:
 *${DESCRIPTION}
 *@Author JOKER
-*@Created ${DATE} ${TIME}
-*@LastModified ${DATE} ${TIME} by JOKER
+*@Create ${DATE} ${TIME}
+*@LastModified ${DATE} ${TIME}
 */

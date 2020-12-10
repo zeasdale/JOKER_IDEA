@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/tx" location="$USER_HOME$/gitee/spring_learning" />
+  </component>
+</application>
